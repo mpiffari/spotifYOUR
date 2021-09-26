@@ -1,2 +1,2 @@
 # spotifyours
-Playground with Spotify API
+Have fun with Spotify API
