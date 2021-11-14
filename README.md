@@ -2,7 +2,7 @@
   <img width="500" height="460" src="logo.png">
 </p>
 
-# spotifYOURS
+# spotifYOUR
 
 Analisi dei propri gusti musicali sfruttando le API messa a disposizione tramite Spotify Developers.
 
